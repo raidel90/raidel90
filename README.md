@@ -6,13 +6,14 @@
 
 
 ### TECHNOLOGIES & TOOLS
-![](https://img.shields.io/badge/PHP-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/PHP-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=gray)
+
 ![](https://img.shields.io/badge/JS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JS-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JS-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/JAVA-sprint-informational?style=flat&logo=java&logoColor=white&color=red)
+![](https://img.shields.io/badge/PHP-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=red)
+![](https://img.shields.io/badge/PHP-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=green)
