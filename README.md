@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/26464310/134077734-66995cd1-c8cb-4c86-a954-e6db6254b573.png)
+![image](/console-cv.png)
 
 ### Hello 👋
 #### 💬 Feel free to ask me about whatever you want, you can find me on <a  target="_blank" href="https://www.linkedin.com/in/raidelv/">LinkedIn</a>
